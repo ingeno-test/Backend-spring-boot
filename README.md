@@ -1,6 +1,8 @@
 # back-end-spring-boot
 Projet backend avec springboot
 
+![Rest-api-postman](https://github.com/ingeno-test/Backend-spring-boot/blob/master/screenshot.jpg)
+
 # Installation
 #### 1-creer une base de donnée "db_demo" dans mysql
 #### 2-Telecharger tous les dépendances du projet
